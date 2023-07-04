@@ -10,7 +10,7 @@ public class AppInitializer extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setScene(new Scene(FXMLLoader.load(getClass().getResource(""))));
+        primaryStage.setScene(new Scene(FXMLLoader.load(getClass().getResource("/view/server_form.fxml"))));
         primaryStage.getIcons().add(new Image("/assets/send3D.png"));
         primaryStage.setResizable(false);
         primaryStage.setTitle("join chat");
