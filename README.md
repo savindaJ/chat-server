@@ -1,12 +1,13 @@
 # chat-server
 multi client chat server 
 
-  #connect meny clients one server 
+      # connect meny clients one server 
 
-#using 
+# using
+
       #java
       #javafx
       #maven
       #java socat
 
-#Enjoyeee !
+# enjoyeee !
